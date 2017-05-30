@@ -52,13 +52,15 @@
               "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -104,8 +106,12 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
@@ -121,7 +127,7 @@
               "src": "@PROJECT_PATH@/assets/images/text-logo-512x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -132,7 +138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brighton.html\">EAST SUSSEX</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horsham.html\">WEST SUSSEX</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEXT MEET</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brighton.html\">EAST SUSSEX</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horsham.html\">WEST SUSSEX</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">NEXT MEET</a></li>"
         },
         {
           "_tags": [
@@ -341,13 +347,15 @@
               "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -393,8 +401,12 @@
           "_anchor": "menu-4",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
@@ -410,7 +422,7 @@
               "src": "@PROJECT_PATH@/assets/images/text-logo-512x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -421,7 +433,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brighton.html\">EAST SUSSEX</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horsham.html\">WEST SUSSEX</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEXT MEET</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brighton.html\">EAST SUSSEX</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horsham.html\">WEST SUSSEX</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">NEXT MEET</a></li>"
         },
         {
           "_name": "footer1",
@@ -467,8 +479,8 @@
             "showButtons": true
           },
           "title": "FURMEETS IN HORSHAM",
-          "text": "Save the date! We will start holding monthly furmeets in Horsham West Sussex, starting from Saturday 13:00pm on the 24th of June! Further details to come soon!",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>"
+          "text": "Save the date! We will start holding monthly furmeets in Horsham West Sussex, starting from Saturday 13:00pm on the 17th of June! Further details to come soon!",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>"
         }
       ]
     },
@@ -492,13 +504,15 @@
               "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -544,8 +558,12 @@
           "_anchor": "menu-9",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Indie Flower",
+              "url": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "css": "'Indie Flower', cursive"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
@@ -561,7 +579,7 @@
               "src": "@PROJECT_PATH@/assets/images/text-logo-512x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -572,70 +590,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brighton.html\">EAST SUSSEX</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horsham.html\">WEST SUSSEX</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEXT MEET</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-c",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Furmeets are coming back to Brighton!",
-          "meta": "Furry fun by the sea!"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-d",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-e",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
-          "text": "Come to one of our furmeets and make new friends!",
-          "title": "JOIN US!"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MEETS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brighton.html\">EAST SUSSEX</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horsham.html\">WEST SUSSEX</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">NEXT MEET</a></li>"
         },
         {
           "_name": "footer1",
@@ -682,7 +637,7 @@
           },
           "title": "FURMEETS IN BRIGHTON",
           "text": "Furmeets will be coming to Brighton soon!!",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>"
         }
       ]
     }
